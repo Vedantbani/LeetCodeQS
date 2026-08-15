@@ -18,4 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0454-4sum-ii](https://github.com/Vedantbani/LeetCodeQS/tree/master/0454-4sum-ii) |
+| [0477-total-hamming-distance](https://github.com/Vedantbani/LeetCodeQS/tree/master/0477-total-hamming-distance) |
+## Math
+|  |
+| ------- |
+| [0477-total-hamming-distance](https://github.com/Vedantbani/LeetCodeQS/tree/master/0477-total-hamming-distance) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0477-total-hamming-distance](https://github.com/Vedantbani/LeetCodeQS/tree/master/0477-total-hamming-distance) |
 <!---LeetCode Topics End-->
