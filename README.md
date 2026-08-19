@@ -34,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/1148-article-views-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Vedantbani/LeetCodeQS/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
