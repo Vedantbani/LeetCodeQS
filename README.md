@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Vedantbani/LeetCodeQS/tree/master/0477-total-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vedantbani/LeetCodeQS/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vedantbani/LeetCodeQS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
