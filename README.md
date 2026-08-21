@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0454-4sum-ii](https://github.com/Vedantbani/LeetCodeQS/tree/master/0454-4sum-ii) |
 | [0477-total-hamming-distance](https://github.com/Vedantbani/LeetCodeQS/tree/master/0477-total-hamming-distance) |
+| [0565-array-nesting](https://github.com/Vedantbani/LeetCodeQS/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vedantbani/LeetCodeQS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/Vedantbani/LeetCodeQS/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
