@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vedantbani/LeetCodeQS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/3719-longest-balanced-subarray-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/Vedantbani/LeetCodeQS/tree/master/0477-total-hamming-distance) |
 | [1927-sum-game](https://github.com/Vedantbani/LeetCodeQS/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vedantbani/LeetCodeQS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
