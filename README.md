@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/0748-shortest-completing-word) |
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedantbani/LeetCodeQS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
 | [0941-valid-mountain-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0946-validate-stack-sequences) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2090-k-radius-subarray-averages](https://github.com/Vedantbani/LeetCodeQS/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vedantbani/LeetCodeQS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/3719-longest-balanced-subarray-i) |
 | [3903-smallest-stable-index-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
