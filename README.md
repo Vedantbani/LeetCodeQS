@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0115-distinct-subsequences) |
 | [0748-shortest-completing-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0806-number-of-lines-to-write-string) |
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0115-distinct-subsequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0845-longest-mountain-in-array) |
 ## Rolling Hash
