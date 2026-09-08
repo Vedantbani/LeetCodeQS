@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0454-4sum-ii](https://github.com/Vedantbani/LeetCodeQS/tree/master/0454-4sum-ii) |
+| [0567-permutation-in-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/0748-shortest-completing-word) |
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0115-distinct-subsequences) |
+| [0567-permutation-in-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0567-permutation-in-string) |
 | [0748-shortest-completing-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0806-number-of-lines-to-write-string) |
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Vedantbani/LeetCodeQS/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/Vedantbani/LeetCodeQS/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Vedantbani/LeetCodeQS/tree/master/0786-k-th-smallest-prime-fraction) |
