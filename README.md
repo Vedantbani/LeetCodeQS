@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Vedantbani/LeetCodeQS/tree/master/0771-jewels-and-stones) |
+| [0890-find-and-replace-pattern](https://github.com/Vedantbani/LeetCodeQS/tree/master/0890-find-and-replace-pattern) |
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/Vedantbani/LeetCodeQS/tree/master/1002-find-common-characters) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Vedantbani/LeetCodeQS/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0806-number-of-lines-to-write-string) |
+| [0890-find-and-replace-pattern](https://github.com/Vedantbani/LeetCodeQS/tree/master/0890-find-and-replace-pattern) |
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
 | [1002-find-common-characters](https://github.com/Vedantbani/LeetCodeQS/tree/master/1002-find-common-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0806-number-of-lines-to-write-string) |
 | [0845-longest-mountain-in-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Vedantbani/LeetCodeQS/tree/master/0881-boats-to-save-people) |
+| [0890-find-and-replace-pattern](https://github.com/Vedantbani/LeetCodeQS/tree/master/0890-find-and-replace-pattern) |
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
 | [0941-valid-mountain-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0946-validate-stack-sequences) |
