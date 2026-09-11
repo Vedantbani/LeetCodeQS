@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Vedantbani/LeetCodeQS/tree/master/0771-jewels-and-stones) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0890-find-and-replace-pattern](https://github.com/Vedantbani/LeetCodeQS/tree/master/0890-find-and-replace-pattern) |
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Vedantbani/LeetCodeQS/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0806-number-of-lines-to-write-string) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0844-backspace-string-compare](https://github.com/Vedantbani/LeetCodeQS/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Vedantbani/LeetCodeQS/tree/master/0890-find-and-replace-pattern) |
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0115-distinct-subsequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0845-longest-mountain-in-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0845-longest-mountain-in-array) |
 ## Rolling Hash
 |  |
