@@ -11,7 +11,7 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        vector<int> t;  // isme storekarate jayenge pahele LL ko
+        vector<int> t;  // isme store karate jayenge pahele LL ko
         ListNode* temp = head;  // temp pointer banayenge
         while (temp != NULL) {
             t.push_back(temp->val);
