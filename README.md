@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Vedantbani/LeetCodeQS/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2090-k-radius-subarray-averages](https://github.com/Vedantbani/LeetCodeQS/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Vedantbani/LeetCodeQS/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vedantbani/LeetCodeQS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vedantbani/LeetCodeQS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0946-validate-stack-sequences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/2000-reverse-prefix-of-word) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Vedantbani/LeetCodeQS/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/Vedantbani/LeetCodeQS/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Vedantbani/LeetCodeQS/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Sorting
 |  |
 | ------- |
