@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/Vedantbani/LeetCodeQS/tree/master/1927-sum-game) |
+| [2000-reverse-prefix-of-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/2000-reverse-prefix-of-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedantbani/LeetCodeQS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/3498-reverse-degree-of-a-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Vedantbani/LeetCodeQS/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Vedantbani/LeetCodeQS/tree/master/0881-boats-to-save-people) |
+| [2000-reverse-prefix-of-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Vedantbani/LeetCodeQS/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0946-validate-stack-sequences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
