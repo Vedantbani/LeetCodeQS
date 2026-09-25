@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Vedantbani/LeetCodeQS/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedantbani/LeetCodeQS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedantbani/LeetCodeQS/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/3719-longest-balanced-subarray-i) |
 ## String
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedantbani/LeetCodeQS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedantbani/LeetCodeQS/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Vedantbani/LeetCodeQS/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2390-removing-stars-from-a-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Vedantbani/LeetCodeQS/tree/master/2487-remove-nodes-from-linked-list) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedantbani/LeetCodeQS/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Vedantbani/LeetCodeQS/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Vedantbani/LeetCodeQS/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedantbani/LeetCodeQS/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Vedantbani/LeetCodeQS/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Vedantbani/LeetCodeQS/tree/master/0786-k-th-smallest-prime-fraction) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedantbani/LeetCodeQS/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Dynamic Programming
 |  |
 | ------- |
