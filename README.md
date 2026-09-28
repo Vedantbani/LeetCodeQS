@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/Vedantbani/LeetCodeQS/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Vedantbani/LeetCodeQS/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/Vedantbani/LeetCodeQS/tree/master/0890-find-and-replace-pattern) |
+| [0896-monotonic-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0896-monotonic-array) |
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
 | [0941-valid-mountain-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0946-validate-stack-sequences) |
