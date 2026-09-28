@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/Vedantbani/LeetCodeQS/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0806-number-of-lines-to-write-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0806-number-of-lines-to-write-string) |
 | [0845-longest-mountain-in-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0845-longest-mountain-in-array) |
+| [0870-advantage-shuffle](https://github.com/Vedantbani/LeetCodeQS/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Vedantbani/LeetCodeQS/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/Vedantbani/LeetCodeQS/tree/master/0890-find-and-replace-pattern) |
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/Vedantbani/LeetCodeQS/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0844-backspace-string-compare](https://github.com/Vedantbani/LeetCodeQS/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0845-longest-mountain-in-array) |
+| [0870-advantage-shuffle](https://github.com/Vedantbani/LeetCodeQS/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Vedantbani/LeetCodeQS/tree/master/0881-boats-to-save-people) |
 | [2000-reverse-prefix-of-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0870-advantage-shuffle](https://github.com/Vedantbani/LeetCodeQS/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Vedantbani/LeetCodeQS/tree/master/0881-boats-to-save-people) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/Vedantbani/LeetCodeQS/tree/master/1927-sum-game) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vedantbani/LeetCodeQS/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Vedantbani/LeetCodeQS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Vedantbani/LeetCodeQS/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0870-advantage-shuffle](https://github.com/Vedantbani/LeetCodeQS/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Vedantbani/LeetCodeQS/tree/master/0881-boats-to-save-people) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Monotonic Stack
