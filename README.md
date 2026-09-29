@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
 | [0941-valid-mountain-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vedantbani/LeetCodeQS/tree/master/0944-delete-columns-to-make-sorted) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/Vedantbani/LeetCodeQS/tree/master/1002-find-common-characters) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0870-advantage-shuffle](https://github.com/Vedantbani/LeetCodeQS/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Vedantbani/LeetCodeQS/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/Vedantbani/LeetCodeQS/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/Vedantbani/LeetCodeQS/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0870-advantage-shuffle](https://github.com/Vedantbani/LeetCodeQS/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Vedantbani/LeetCodeQS/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Monotonic Stack
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Vedantbani/LeetCodeQS/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Linked List
 |  |
