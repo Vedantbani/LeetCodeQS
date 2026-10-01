@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0115-distinct-subsequences) |
 | [0567-permutation-in-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0567-permutation-in-string) |
 | [0748-shortest-completing-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/0748-shortest-completing-word) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Vedantbani/LeetCodeQS/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Vedantbani/LeetCodeQS/tree/master/0844-backspace-string-compare) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Increasing Subsequence
