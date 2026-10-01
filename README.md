@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Vedantbani/LeetCodeQS/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1023-camelcase-matching](https://github.com/Vedantbani/LeetCodeQS/tree/master/1023-camelcase-matching) |
 | [1046-last-stone-weight](https://github.com/Vedantbani/LeetCodeQS/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Vedantbani/LeetCodeQS/tree/master/1094-car-pooling) |
 | [2090-k-radius-subarray-averages](https://github.com/Vedantbani/LeetCodeQS/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Vedantbani/LeetCodeQS/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/Vedantbani/LeetCodeQS/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Vedantbani/LeetCodeQS/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1094-car-pooling](https://github.com/Vedantbani/LeetCodeQS/tree/master/1094-car-pooling) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Monotonic Stack
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vedantbani/LeetCodeQS/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Vedantbani/LeetCodeQS/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1046-last-stone-weight](https://github.com/Vedantbani/LeetCodeQS/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Vedantbani/LeetCodeQS/tree/master/1094-car-pooling) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedantbani/LeetCodeQS/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Dynamic Programming
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1094-car-pooling](https://github.com/Vedantbani/LeetCodeQS/tree/master/1094-car-pooling) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/3719-longest-balanced-subarray-i) |
 | [3903-smallest-stable-index-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Vedantbani/LeetCodeQS/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0946-validate-stack-sequences) |
+| [1094-car-pooling](https://github.com/Vedantbani/LeetCodeQS/tree/master/1094-car-pooling) |
 | [2390-removing-stars-from-a-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
