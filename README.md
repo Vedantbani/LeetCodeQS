@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0115-distinct-subsequences) |
 | [0567-permutation-in-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0567-permutation-in-string) |
 | [0748-shortest-completing-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/0748-shortest-completing-word) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0115-distinct-subsequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vedantbani/LeetCodeQS/tree/master/0746-min-cost-climbing-stairs) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Increasing Subsequence
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1023-camelcase-matching](https://github.com/Vedantbani/LeetCodeQS/tree/master/1023-camelcase-matching) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
