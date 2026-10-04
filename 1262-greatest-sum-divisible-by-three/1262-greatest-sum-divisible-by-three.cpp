@@ -17,7 +17,7 @@ public:
     int maxSumDivThree(vector<int>& nums) {
         int n = nums.size();
         int remainder = 0;
-        vector<vector<int>> dp(n + 1, vector<int>(4, -1));
+        vector<vector<int>> dp(n + 1, vector<int>(3, -1));
         return f(n - 1, nums, dp, remainder);
     }
 };
