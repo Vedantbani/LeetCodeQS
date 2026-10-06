@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Vedantbani/LeetCodeQS/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/Vedantbani/LeetCodeQS/tree/master/0219-contains-duplicate-ii) |
 | [0454-4sum-ii](https://github.com/Vedantbani/LeetCodeQS/tree/master/0454-4sum-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/0748-shortest-completing-word) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vedantbani/LeetCodeQS/tree/master/0219-contains-duplicate-ii) |
 | [0454-4sum-ii](https://github.com/Vedantbani/LeetCodeQS/tree/master/0454-4sum-ii) |
 | [0477-total-hamming-distance](https://github.com/Vedantbani/LeetCodeQS/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0491-non-decreasing-subsequences) |
 | [0565-array-nesting](https://github.com/Vedantbani/LeetCodeQS/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/0643-maximum-average-subarray-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/Vedantbani/LeetCodeQS/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0491-non-decreasing-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vedantbani/LeetCodeQS/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vedantbani/LeetCodeQS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0022-generate-parentheses) |
+| [0491-non-decreasing-subsequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0491-non-decreasing-subsequences) |
 ## Matrix
 |  |
 | ------- |
