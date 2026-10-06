@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Vedantbani/LeetCodeQS/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/Vedantbani/LeetCodeQS/tree/master/0219-contains-duplicate-ii) |
 | [0454-4sum-ii](https://github.com/Vedantbani/LeetCodeQS/tree/master/0454-4sum-ii) |
 | [0567-permutation-in-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0567-permutation-in-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Vedantbani/LeetCodeQS/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/Vedantbani/LeetCodeQS/tree/master/0219-contains-duplicate-ii) |
 | [0454-4sum-ii](https://github.com/Vedantbani/LeetCodeQS/tree/master/0454-4sum-ii) |
 | [0477-total-hamming-distance](https://github.com/Vedantbani/LeetCodeQS/tree/master/0477-total-hamming-distance) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Vedantbani/LeetCodeQS/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
