@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedantbani/LeetCodeQS/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vedantbani/LeetCodeQS/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Vedantbani/LeetCodeQS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedantbani/LeetCodeQS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedantbani/LeetCodeQS/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedantbani/LeetCodeQS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedantbani/LeetCodeQS/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Vedantbani/LeetCodeQS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2090-k-radius-subarray-averages](https://github.com/Vedantbani/LeetCodeQS/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Vedantbani/LeetCodeQS/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vedantbani/LeetCodeQS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedantbani/LeetCodeQS/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Vedantbani/LeetCodeQS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/Vedantbani/LeetCodeQS/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Vedantbani/LeetCodeQS/tree/master/1094-car-pooling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vedantbani/LeetCodeQS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedantbani/LeetCodeQS/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Vedantbani/LeetCodeQS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Monotonic Stack
 |  |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Vedantbani/LeetCodeQS/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vedantbani/LeetCodeQS/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Vedantbani/LeetCodeQS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Linked List
 |  |
 | ------- |
