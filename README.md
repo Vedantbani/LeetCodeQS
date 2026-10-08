@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/Vedantbani/LeetCodeQS/tree/master/0916-word-subsets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vedantbani/LeetCodeQS/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/Vedantbani/LeetCodeQS/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/Vedantbani/LeetCodeQS/tree/master/1023-camelcase-matching) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vedantbani/LeetCodeQS/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Vedantbani/LeetCodeQS/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0946-validate-stack-sequences) |
+| [1021-remove-outermost-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/2000-reverse-prefix-of-word) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Increasing Subsequence
