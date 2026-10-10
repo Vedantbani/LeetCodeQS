@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Vedantbani/LeetCodeQS/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vedantbani/LeetCodeQS/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedantbani/LeetCodeQS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedantbani/LeetCodeQS/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Vedantbani/LeetCodeQS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Vedantbani/LeetCodeQS/tree/master/1512-number-of-good-pairs) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vedantbani/LeetCodeQS/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2090-k-radius-subarray-averages](https://github.com/Vedantbani/LeetCodeQS/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Vedantbani/LeetCodeQS/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vedantbani/LeetCodeQS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedantbani/LeetCodeQS/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Vedantbani/LeetCodeQS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vedantbani/LeetCodeQS/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/Vedantbani/LeetCodeQS/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/Vedantbani/LeetCodeQS/tree/master/1094-car-pooling) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vedantbani/LeetCodeQS/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/3719-longest-balanced-subarray-i) |
 | [3903-smallest-stable-index-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
