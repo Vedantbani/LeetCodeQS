@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vedantbani/LeetCodeQS/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vedantbani/LeetCodeQS/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedantbani/LeetCodeQS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Vedantbani/LeetCodeQS/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Vedantbani/LeetCodeQS/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vedantbani/LeetCodeQS/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vedantbani/LeetCodeQS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vedantbani/LeetCodeQS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -357,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/1015-smallest-integer-divisible-by-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
