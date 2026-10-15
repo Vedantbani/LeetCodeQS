@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0115-distinct-subsequences) |
+| [0412-fizz-buzz](https://github.com/Vedantbani/LeetCodeQS/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/0678-valid-parenthesis-string) |
 | [0748-shortest-completing-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/0748-shortest-completing-word) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Vedantbani/LeetCodeQS/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/Vedantbani/LeetCodeQS/tree/master/0477-total-hamming-distance) |
 | [0633-sum-of-square-numbers](https://github.com/Vedantbani/LeetCodeQS/tree/master/0633-sum-of-square-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Vedantbani/LeetCodeQS/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Vedantbani/LeetCodeQS/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Vedantbani/LeetCodeQS/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/Vedantbani/LeetCodeQS/tree/master/1094-car-pooling) |
