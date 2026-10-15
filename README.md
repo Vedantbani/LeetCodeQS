@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vedantbani/LeetCodeQS/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vedantbani/LeetCodeQS/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1726-tuple-with-same-product](https://github.com/Vedantbani/LeetCodeQS/tree/master/1726-tuple-with-same-product) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Vedantbani/LeetCodeQS/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedantbani/LeetCodeQS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Vedantbani/LeetCodeQS/tree/master/1512-number-of-good-pairs) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vedantbani/LeetCodeQS/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vedantbani/LeetCodeQS/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1726-tuple-with-same-product](https://github.com/Vedantbani/LeetCodeQS/tree/master/1726-tuple-with-same-product) |
 | [2090-k-radius-subarray-averages](https://github.com/Vedantbani/LeetCodeQS/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Vedantbani/LeetCodeQS/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Vedantbani/LeetCodeQS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Vedantbani/LeetCodeQS/tree/master/1512-number-of-good-pairs) |
+| [1726-tuple-with-same-product](https://github.com/Vedantbani/LeetCodeQS/tree/master/1726-tuple-with-same-product) |
 ## Linked List
 |  |
 | ------- |
