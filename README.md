@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Vedantbani/LeetCodeQS/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Vedantbani/LeetCodeQS/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Vedantbani/LeetCodeQS/tree/master/1189-maximum-number-of-balloons) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedantbani/LeetCodeQS/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vedantbani/LeetCodeQS/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Vedantbani/LeetCodeQS/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/Vedantbani/LeetCodeQS/tree/master/1023-camelcase-matching) |
+| [1189-maximum-number-of-balloons](https://github.com/Vedantbani/LeetCodeQS/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vedantbani/LeetCodeQS/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Vedantbani/LeetCodeQS/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1189-maximum-number-of-balloons](https://github.com/Vedantbani/LeetCodeQS/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vedantbani/LeetCodeQS/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Vedantbani/LeetCodeQS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
