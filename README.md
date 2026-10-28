@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Vedantbani/LeetCodeQS/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Vedantbani/LeetCodeQS/tree/master/1208-get-equal-substrings-within-budget) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Vedantbani/LeetCodeQS/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vedantbani/LeetCodeQS/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Vedantbani/LeetCodeQS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vedantbani/LeetCodeQS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
