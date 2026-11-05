@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vedantbani/LeetCodeQS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vedantbani/LeetCodeQS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedantbani/LeetCodeQS/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vedantbani/LeetCodeQS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vedantbani/LeetCodeQS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Vedantbani/LeetCodeQS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/Vedantbani/LeetCodeQS/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Vedantbani/LeetCodeQS/tree/master/0881-boats-to-save-people) |
 | [1023-camelcase-matching](https://github.com/Vedantbani/LeetCodeQS/tree/master/1023-camelcase-matching) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vedantbani/LeetCodeQS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vedantbani/LeetCodeQS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2000-reverse-prefix-of-word](https://github.com/Vedantbani/LeetCodeQS/tree/master/2000-reverse-prefix-of-word) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Vedantbani/LeetCodeQS/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Vedantbani/LeetCodeQS/tree/master/1094-car-pooling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vedantbani/LeetCodeQS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vedantbani/LeetCodeQS/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vedantbani/LeetCodeQS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Vedantbani/LeetCodeQS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vedantbani/LeetCodeQS/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vedantbani/LeetCodeQS/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Vedantbani/LeetCodeQS/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Vedantbani/LeetCodeQS/tree/master/1208-get-equal-substrings-within-budget) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vedantbani/LeetCodeQS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
