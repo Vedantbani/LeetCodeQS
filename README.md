@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Vedantbani/LeetCodeQS/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vedantbani/LeetCodeQS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vedantbani/LeetCodeQS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vedantbani/LeetCodeQS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vedantbani/LeetCodeQS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vedantbani/LeetCodeQS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vedantbani/LeetCodeQS/tree/master/3718-smallest-missing-multiple-of-k) |
